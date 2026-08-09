@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Personal Finance logo</title>
+  <desc id="desc">A dark navy circle with a white dollar mark and mint growth line.</desc>
+  <rect width="512" height="512" rx="112" fill="#14213D"/>
+  <circle cx="256" cy="256" r="176" fill="#1D3557" stroke="#6FE7C8" stroke-width="12"/>
+  <path d="M258 128v256M322 187c-21-18-48-28-77-28-48 0-78 24-78 60 0 39 34 53 86 65 48 11 83 22 83 63 0 38-34 66-84 66-36 0-68-13-93-39" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+  <path d="M106 351l73-73 52 38 99-112" fill="none" stroke="#6FE7C8" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+  <path d="M288 204h42v42" fill="none" stroke="#6FE7C8" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+</svg>
